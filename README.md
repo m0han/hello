@@ -11,4 +11,5 @@ git branch -m <new name> # currently working branch
 
 #delete a branch
 git branch -d <branch-name>
+git branch -D <branch-name> # to force
 
