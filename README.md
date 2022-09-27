@@ -1,5 +1,11 @@
 # Data Science
 
+Mathematics
+===========
+* Statistics
+* Linear Algebra https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
+* Calculus
+
 Programming
 ===========
 Language
@@ -9,34 +15,31 @@ Language
 Techniques
 ----------
 * Recursion
+* Backtracking
 * Dynamic Programming
 
 Data Structures and Algorithms
 ------------------------------
 * List/Tree/Graph
+* Data Frames
 * Graph Algorithms https://www.youtube.com/watch?v=tWVWeAqZ0WU
 
-Data Analysis
-=============
+Data Analysis and Analytics
+===========================
 * SQL
-* Data Modeling
+* Modeling data in data store for analysis
     * Relational Data Modeling 
     * Multi-dimensional Data Modeling 
-* Descriptive Data Analysis
-* Descriptive Statistical Measures
-
-Mathematics
-===========
-* Statistics
-* Linear Algebra https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
-* Calculus
+* Descriptive Data Analysis using statistical Mesasures
+* Statistical Inference based on Probability
 
 Artificial Intelligence
 =======================
 - Searching to solve problems
-- Statistical Inference based on Probability
-- Reasoning based on Knowlege (Knowledge Base represented in Propositional Logic) for decision making
-- Learning based on data (Machine Learning)
+- Logical reasoning based on Knowlege for decision making
+- Learning based on Data/Information (Machine Learning)
 
+Data Engineering
+================
 
 
